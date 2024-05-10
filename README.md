@@ -1,2 +1,3 @@
 # Mobile-Manipulation
-ME 449 Final Project
+Detailed Link:
+https://hades.mech.northwestern.edu/index.php/Mobile_Manipulation_Capstone_2023
