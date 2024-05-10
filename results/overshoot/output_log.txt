@@ -1,0 +1,196 @@
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NextState')" style="font-weight:bold">NextState</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('final_project_newTask', 'C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_newTask.m', 65)" style="font-weight:bold">final_project_newTask</a> (<a href="matlab: opentoline('C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_newTask.m',65,0)">line 65</a>)
+[chassis_pose_new,arm_pose_new,wheel_angle_new] = NextState(current_state, controls, dt, max_speed);
+} 
+uiopen('C:\Users\Noahh\Documents\2023 Fall\ME449 Robotics\WANG_HAODONG_final_project\results\best\Final_Step_best.m',1)
+final_project_newTask
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('vertcat')" style="font-weight:bold">vertcat</a>
+Dimensions of arrays being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('final_project_newTask', 'C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_newTask.m', 68)" style="font-weight:bold">final_project_newTask</a> (<a href="matlab: opentoline('C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_newTask.m',68,0)">line 68</a>)
+current_state = [chassis_pose_new;arm_pose_new;wheel_angle_new];
+} 
+final_project_newTask
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NextState')" style="font-weight:bold">NextState</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('final_project_newTask', 'C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_newTask.m', 65)" style="font-weight:bold">final_project_newTask</a> (<a href="matlab: opentoline('C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_newTask.m',65,0)">line 65</a>)
+[chassis_pose_new,arm_pose_new,wheel_angle_new] = NextState(current_state, controls, dt, max_speed);
+} 
+final_project_newTask
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+{Unrecognized function or variable 'FeedbackControl'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_Step_best', 'C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\Final_Step_best.m', 60)" style="font-weight:bold">Final_Step_best</a> (<a href="matlab: opentoline('C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\Final_Step_best.m',60,0)">line 60</a>)
+Ve = FeedbackControl(Tse, reshap_Tse_d,reshap_Tse_dnext,Kp,Ki,dt);
+} 
+Final_Step_best
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+{Unrecognized function or variable 'FeedbackControl'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Final_Step_best', 'C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\Final_Step_best.m', 60)" style="font-weight:bold">Final_Step_best</a> (<a href="matlab: opentoline('C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\Final_Step_best.m',60,0)">line 60</a>)
+Ve = FeedbackControl(Tse, reshap_Tse_d,reshap_Tse_dnext,Kp,Ki,dt);
+} 
+Final_Step_best
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+{Unrecognized function or variable 'FeedbackControl'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('final_project_overshoot', 'C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_overshoot.m', 60)" style="font-weight:bold">final_project_overshoot</a> (<a href="matlab: opentoline('C:\Users\Noahh\Documents\2023 Fall\ModernRobotics-master\ModernRobotics-master\packages\MATLAB\mr\final_project_overshoot.m',60,0)">line 60</a>)
+Ve = FeedbackControl(Tse, reshap_Tse_d,reshap_Tse_dnext,Kp,Ki,dt);
+} 
+final_project_overshoot
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim csv into excel files
+Done
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
