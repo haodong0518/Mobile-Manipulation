@@ -1,0 +1,13 @@
+controls: feedforward plus PI
+Kp: 50
+Ki: 0
+Initial Arm Positions: arm_init = [0;pi/2;0.2;-2;1];
+default block init and final block configurations.
+
+other settings: 
+
+w_max = 0.5;
+v_max = 0.5; "in generating the reference trajectoy"
+k=1;
+dt = 0.01;
+max_speed = 5;
