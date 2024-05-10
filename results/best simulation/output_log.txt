@@ -1,0 +1,4 @@
+Generating Reference Trajectory
+Finished Generating Reference Trajectory 
+writing Xerr and CoppelisSim into excel files
+Done
